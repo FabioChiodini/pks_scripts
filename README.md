@@ -5,7 +5,13 @@ Credits to William Lam for providing a bigger installation script. I am just spl
 
 
 # Install Ops Manager
-''OpsManagerOVF.ps1''
+
+```
+
+./OpsManagerOVF.ps1
+
+```
+
 
 Just fill out your details and launch in Powershell
 
